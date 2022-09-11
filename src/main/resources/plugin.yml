@@ -1,0 +1,7 @@
+name: LifeTrade
+version: '${project.version}'
+main: org.leeflower.lifetrade.LifeTrade
+api-version: 1.19
+prefix: Life_Trade
+authors: [ LeeFlower ]
+description: Trade your life with the others.
